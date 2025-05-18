@@ -2,7 +2,23 @@
 
 This repository contains templates, tools, and resources for mathematical modeling competitions such as MCM/ICM, CUMCM, and other mathematical modeling contests.
 
-## Contents
+## Languages
+- [English (Current)](./README.md)
+- [中文](./README_CN.md)
+
+## Table of Contents
+- [Introduction](#mathematical-modeling-resources-repository)
+- [Languages](#languages)
+- [Repository Contents](#repository-contents)
+  - [LaTeX Templates](#latex-templates)
+  - [Helpful Tools](#helpful-tools)
+  - [Resource Links](#resource-links)
+- [LaTeX Template Features](#latex-template-features)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Repository Contents
 
 ### LaTeX Templates
 - Professional templates for mathematical modeling papers
@@ -26,10 +42,10 @@ This repository contains templates, tools, and resources for mathematical modeli
 - Built-in support for algorithms, tables, and graphics
 
 ## Getting Started
-1. Clone this repository to your local machine
-2. Choose the appropriate template for your competition
-3. Modify the template with your own content
-4. Compile using any LaTeX compiler
+1. Clone this repository to your local machine.
+2. Choose the appropriate template for your competition.
+3. Modify the template with your own content.
+4. Compile using any LaTeX compiler.
 
 ## Contributing
 Contributions to improve templates or add resources are welcome. Please submit a pull request or open an issue to discuss your ideas.
